@@ -1,6 +1,11 @@
 p {
 color: darkturquoise;
 }
+
+body {
+background-image: url("https://s-media-cache-ak0.pinimg.com/736x/f5/44/81/f5448147a34c26bcde31ebe6c88fbc6f.jpg"); 
+}
+
 h1 {
 color: lightseagreen;
 font-style: oblique;
